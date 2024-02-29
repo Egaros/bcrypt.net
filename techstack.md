@@ -3,16 +3,16 @@
 ## Tech Stack
 Egaros/bcrypt.net is built on the following main stack:
 
+- [ASP.NET](https://www.asp.net/) – Languages
+- [C#](http://csharp.net) – Languages
 - [Java](https://www.java.com) – Languages
 - [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- [C#](http://csharp.net) – Languages
+- [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
+- [ASP.NET Core](docs.microsoft.com/en-us/aspnet/core/) – Frameworks (Full Stack)
+- [Travis CI](http://travis-ci.com/) – Continuous Integration
 - [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
 - [xUnit](http://xunit.github.io/) – Testing Frameworks
 - [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
-- [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
-- [ASP.NET](https://www.asp.net/) – Languages
-- [ASP.NET Core](docs.microsoft.com/en-us/aspnet/core/) – Frameworks (Full Stack)
-- [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
 
@@ -22,16 +22,16 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 Egaros/bcrypt.net is built on the following main stack:
 
+- <img width='25' height='25' src='https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png' alt='ASP.NET'/> [ASP.NET](https://www.asp.net/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png' alt='.NET Core'/> [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/11331/asp.net-core.png' alt='ASP.NET Core'/> [ASP.NET Core](docs.microsoft.com/en-us/aspnet/core/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/1451/SR2hUhQN.png' alt='Visual Studio'/> [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
 - <img width='25' height='25' src='https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png' alt='xUnit'/> [xUnit](http://xunit.github.io/) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/3681/powershell-logo.png' alt='PowerShell'/> [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png' alt='.NET Core'/> [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png' alt='ASP.NET'/> [ASP.NET](https://www.asp.net/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/11331/asp.net-core.png' alt='ASP.NET Core'/> [ASP.NET Core](docs.microsoft.com/en-us/aspnet/core/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
 
@@ -42,7 +42,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Egaros/bcrypt.net](https://github.com/Egaros/bcrypt.net)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|15<br/>Tools used|01/31/24 <br/>Report generated|
+|15<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
